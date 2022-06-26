@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+a{
+    color: red;
+    background-color: ;
+}
+h1{
+color:blueviolet ;
+background-color:black ;
+}
+p{
+    width: 300px;
+    color: aqua;
+    background-color: black;
+}
+p img{
+background-color: black;
+}
+
+header{
+    background-color: white;
+    height: 50px;
+}
